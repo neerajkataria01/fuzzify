@@ -28,7 +28,7 @@ This tool requires Python 3.x and the `requests` library.
 
 1. Run the script:
     ```bash
-    python fuzzer.py
+    python fuzzify.py
     ```
 
 2. You will be prompted to enter:
